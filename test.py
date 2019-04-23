@@ -1,4 +1,4 @@
 def main():
-	print("hello wodsddarld")
+	print("IDP")
 if __name__ == "__main__":
 	main()
